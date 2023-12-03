@@ -16,20 +16,20 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone:Asia/Singapore
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Greens N' Berries                          # the main title
 
-tagline: Synthetic Pesticides & Fertilizers Free Farming   # it will display as the sub-title
+tagline: Synthetic Pesticides Free Farming   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Greens N' Berries Joyacres - Synthetic Pesticides & Fertilizers Free Farming
+  Greens N' Berries Joyacres - Synthetic Pesticides Free Farming
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://web.greensnberries.farm'
 
 github:
   username:              # change to your github username
